@@ -59,4 +59,5 @@ function cuttingRecipeGen(event) {
             results: newList,
             processingItem : 50
         });
+    });
 }
